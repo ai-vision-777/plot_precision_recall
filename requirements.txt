@@ -1,10 +1,6 @@
 scikit-learn
 numpy
 scipy
-jieba
-nltk
 seaborn 
 scikit-plot
-beautifulsoup4
-wordcloud
 
